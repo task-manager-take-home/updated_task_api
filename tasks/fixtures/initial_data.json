@@ -1,0 +1,222 @@
+[
+  {
+    "model": "tasks.task",
+    "pk": 1,
+    "fields": {
+      "title": "Finish Homework",
+      "description": "Complete the math and science homework for school.",
+      "status": "Incomplete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-06T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 2,
+    "fields": {
+      "title": "Buy Groceries",
+      "description": "Get milk, bread, and eggs from the supermarket.",
+      "status": "Complete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-07T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 3,
+    "fields": {
+      "title": "Clean the House",
+      "description": "Vacuum the living room and clean the kitchen.",
+      "status": "Incomplete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-08T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 4,
+    "fields": {
+      "title": "Finish Project Report",
+      "description": "Complete the final project report for work.",
+      "status": "Incomplete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-09T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 5,
+    "fields": {
+      "title": "Prepare for Meeting",
+      "description": "Gather documents and prepare the presentation slides.",
+      "status": "Complete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-10T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 6,
+    "fields": {
+      "title": "Schedule Doctor's Appointment",
+      "description": "Call the clinic to schedule a routine checkup.",
+      "status": "Incomplete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-11T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 7,
+    "fields": {
+      "title": "Water the Plants",
+      "description": "Water all the indoor and outdoor plants.",
+      "status": "Incomplete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-12T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 8,
+    "fields": {
+      "title": "Pay Electricity Bill",
+      "description": "Pay the monthly electricity bill online.",
+      "status": "Complete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-13T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 9,
+    "fields": {
+      "title": "Organize Bookshelf",
+      "description": "Sort books on the shelf by category and author.",
+      "status": "Incomplete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-14T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 10,
+    "fields": {
+      "title": "Car Maintenance",
+      "description": "Take the car in for an oil change and check-up.",
+      "status": "Incomplete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-15T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 11,
+    "fields": {
+      "title": "Pick Up Dry Cleaning",
+      "description": "Pick up clothes from the dry cleaner before 5 PM.",
+      "status": "Complete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-16T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 12,
+    "fields": {
+      "title": "Meal Prep for the Week",
+      "description": "Prepare meals for the week to save time on cooking.",
+      "status": "Incomplete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-17T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 13,
+    "fields": {
+      "title": "Plan Weekend Getaway",
+      "description": "Book hotel and plan itinerary for the weekend trip.",
+      "status": "Incomplete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-18T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 14,
+    "fields": {
+      "title": "Submit Expense Report",
+      "description": "Submit the monthly expense report to the finance team.",
+      "status": "Complete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-19T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 15,
+    "fields": {
+      "title": "Backup Files",
+      "description": "Backup important documents to the external hard drive.",
+      "status": "Incomplete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-20T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 16,
+    "fields": {
+      "title": "Send Birthday Card",
+      "description": "Mail the birthday card to Sarah by the end of the day.",
+      "status": "Incomplete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-21T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 17,
+    "fields": {
+      "title": "Organize Closet",
+      "description": "Reorganize the closet and donate unused clothes.",
+      "status": "Complete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-22T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 18,
+    "fields": {
+      "title": "Update Resume",
+      "description": "Update the resume with the latest job experience.",
+      "status": "Incomplete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-23T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 19,
+    "fields": {
+      "title": "Fix Leaky Faucet",
+      "description": "Repair the leaky faucet in the kitchen sink.",
+      "status": "Incomplete",
+      "priority": "Secondary",
+      "creation_date": "2023-09-24T08:00:00Z"
+    }
+  },
+  {
+    "model": "tasks.task",
+    "pk": 20,
+    "fields": {
+      "title": "Write Blog Post",
+      "description": "Write a blog post about the recent tech conference.",
+      "status": "Complete",
+      "priority": "Immediate",
+      "creation_date": "2023-09-25T08:00:00Z"
+    }
+  }
+]
